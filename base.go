@@ -6,7 +6,7 @@
  * Time: 01:38
  */
 
-package tests
+package test
 
 import (
 	"log"
